@@ -1,11 +1,12 @@
 {
-  "name": "bases",
-  "version": "1.0.0",
-  "description": "Primera app de node",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "David Murillo",
-  "license": "ISC"
+    "name": "bases",
+    "version": "1.0.0",
+    "description": "Primera app de node",
+    "main": "index.js",
+    "scripts": {
+        "start": "node src/app.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "David Murillo",
+    "license": "ISC"
 }
